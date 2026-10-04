@@ -1,5 +1,8 @@
 # T31 -- Farmer Mandi Price Assistant
 
+### Live Link
+https://farmer-mandi-price-assistant.vercel.app/
+
 A dataset-grounded chatbot that answers farmer mandi price queries using
 the supplied mandi price dataset. The assistant supports English, Hindi,
 Marathi, historical price lookups, recent 7-observation trends, and a
