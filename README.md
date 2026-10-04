@@ -186,9 +186,6 @@ T31-Farmer-Mandi-Price-Assistant/
 │
 ├── README.md
 │
-├── chatbot/
-│   └── index.html
-│
 ├── data/
 │   └── mandi_prices.xlsx
 │
@@ -208,6 +205,8 @@ T31-Farmer-Mandi-Price-Assistant/
 │   ├── 05_hindi_query.png
 │   ├── 06_marathi_query.png
 │   └── 07_unavailable_query.png
+|-- screenrecording/
+|   |--app.mp4
 │
 └── .gitignore
 ```
